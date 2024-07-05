@@ -192,7 +192,7 @@ function Music() {
                     <audio ref={audioRef} src={currentSong.audioSrc}></audio>
                 </div>
             </div>
-            
+            <h1>hi i am ganeshboopathy</h1>
         </div>
     );
     
